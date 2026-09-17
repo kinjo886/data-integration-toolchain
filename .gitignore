@@ -1,0 +1,24 @@
+# 依赖 / 缓存 / 构建产物
+node_modules/
+.venv/
+__pycache__/
+dist/
+build/
+*.pyc
+
+# 运行时数据 / 凭证 / 真实业务数据
+app-data/
+.builder-cache/
+.env
+*.env
+config.json
+secret.key
+*.db
+*.sqlite
+*.log
+*.xlsx
+*.docx
+*.zip
+*.exe
+*.dll
+JSON输出文件夹/
