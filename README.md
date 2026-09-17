@@ -70,4 +70,5 @@ python 二维数组工具/huaweiyuntool.py <22个位置参数>
 
 ## License
 
-MIT
+
+本项目基于 [MIT License](./LICENSE) 开源，可自由使用、修改和分发。欢迎按需二次开发。
